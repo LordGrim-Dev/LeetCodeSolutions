@@ -5,6 +5,7 @@
 
 class AverageSalaryExcludingtheMinimumandMaximumSalary
 {
+        
 public:
     double FindAverage(vector<int> &salary)
     {
