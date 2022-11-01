@@ -2,6 +2,7 @@
 
 class SubtracttheProductandSumofDigitsofanInteger
 {
+    
 public:
     int subtractProductAndSum(int n)
     {
