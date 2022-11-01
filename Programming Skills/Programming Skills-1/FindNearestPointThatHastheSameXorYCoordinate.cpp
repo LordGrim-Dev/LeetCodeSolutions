@@ -7,6 +7,7 @@
 
 class FindNearestPointThatHastheSameXorYCoordinate
 {
+    
 public:
     int nearestValidPoint(int x, int y, vector<vector<int>> &points)
     {
