@@ -9,6 +9,7 @@
 
 class NumberofOneBits
 {
+    
 public:
     int GetHammingWeight(uint32_t n)
     {
