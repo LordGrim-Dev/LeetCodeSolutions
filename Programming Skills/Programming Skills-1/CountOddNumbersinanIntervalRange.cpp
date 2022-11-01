@@ -1,5 +1,6 @@
 class CountOddNumbersinanIntervalRange
 {
+
 public:
     int countOdds(int low, int high)
     {
