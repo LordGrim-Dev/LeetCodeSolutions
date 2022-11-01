@@ -4,6 +4,7 @@
 
 class LargestPerimeterTriangle
 {
+    
 public:
     int GetLargestPerimeter(vector<int> &nums)
     {
