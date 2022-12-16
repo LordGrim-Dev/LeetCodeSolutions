@@ -6,19 +6,6 @@ You are given an array of <strong>unique</strong> integers <code>salary</code> w
 
 Return the average salary of employees excluding the minimum and maximum salary. Answers within <code>10<sup>-5</sup></code> of the actual answer will be accepted.</p>
 
-Example 1:
-
-Input: 
-Output: 
-Explanation: Minimum salary and maximum salary are 1000 and 4000 respectively.
-Average salary excluding minimum and maximum salary is (2000+3000) / 2 = 2500
-Example 2:
-
-Input: 
-Output: 2000.00000
-Explanation: 
-
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
