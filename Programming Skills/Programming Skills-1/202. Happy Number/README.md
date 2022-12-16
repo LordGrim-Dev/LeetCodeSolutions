@@ -1,6 +1,3 @@
-// Write an algorithm to determine if a number n is happy.
-
-
 # [202. Happy Number](https://leetcode.com/problems/happy-number/?envType=study-plan&id=programming-skills-i)
 
 <p>
