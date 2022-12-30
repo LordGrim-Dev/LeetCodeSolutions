@@ -24,7 +24,7 @@ An <strong>Anagram</strong> is a word or phrase formed by rearranging the letter
 <p><strong>Constraints:</strong></p>
 
 <ul>
-    <li><code>1 <= s.length, t.length <= 5 * 104</code></li>
+    <li><code>1 <= s.length, t.length <= 5 * 10<sup>4</sup></code></li>
     <li><code>s</code> and <code>t</code> consist of lowercase English letters.</li>
 </ul>
 

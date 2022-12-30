@@ -24,7 +24,7 @@ A binary tree's <strong>maximum depth</strong> is the number of nodes along the 
 <p><strong>Constraints:</strong></p>
 
 <ul>
-    <li>The number of nodes in the tree is in the range <code>[0, 104]</code>.</li>
+    <li>The number of nodes in the tree is in the range <code>[0, 10<sup>4</sup>]</code>.</li>
     <li><code>-100 <= Node.val <= 100</code></li>
 </ul>
 

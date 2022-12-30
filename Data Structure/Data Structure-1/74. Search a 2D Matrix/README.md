@@ -31,7 +31,7 @@ Write an efficient algorithm that searches for a value <code>target</code> in an
 <ul>
     <li><code>m == matrix.length</code></li>
     <li><code>n == matrix[i].length</code></li>
-    <li><code>-104 <= matrix[i][j], target <= 104 </code></li>
+    <li><code>-10<sup>4</sup> <= matrix[i][j], target <= 10<sup>4</sup> </code></li>
     <li><code>1 <= m, n <= 100</code></li>
 </ul>
 

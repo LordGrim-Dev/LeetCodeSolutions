@@ -30,7 +30,7 @@ Given a string <code>s</code>, find the first non-repeating character in it and 
 <p><strong>Constraints:</strong></p>
 
 <ul>
-    <li><code>1 <= s.length <= 105</code></li>
+    <li><code>1 <= s.length <= 10<sup>5</sup></code></li>
     <li><code>s</code> consists of only lowercase English letters.</li>
 </ul>
 
